@@ -82,6 +82,14 @@ header p {
 	color: #fff;
 	font-size: 45px;
     font-family: monospace;
+
+}
+.intro-text p{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 45px;
+    font-family: monospace;
+    
 }
 
 
